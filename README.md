@@ -1,4 +1,4 @@
-# CIS553 Project Starter Code
+#Project Starter Code
 
 This code base makes use of the [NS3](https://www.nsnam.org/) simulator.
 
